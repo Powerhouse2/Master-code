@@ -1,0 +1,1639 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getRPM\t(Parser.cpp)"
+			],
+			[
+				"ena",
+				"enableInput"
+			],
+			[
+				"_",
+				"_highPin\t(Parser.h)"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"calendar",
+				"calendar_ids"
+			],
+			[
+				"chang",
+				"changeLED"
+			],
+			[
+				"number",
+				"numberOfColours"
+			],
+			[
+				"parse",
+				"parseJSON〔function〕"
+			],
+			[
+				"ger",
+				"generate\t(app.js)"
+			],
+			[
+				"doo",
+				"doorToHorsepowerRatio〔function〕"
+			],
+			[
+				"d",
+				"doorToHorsepowerRatio〔function〕"
+			],
+			[
+				"Log",
+				"Log〔class〕"
+			],
+			[
+				"container",
+				"container-fluid\t(gallery.blade.php)"
+			],
+			[
+				"pub",
+				"pub_id"
+			],
+			[
+				"ico-",
+				"ico-bullhorn"
+			],
+			[
+				"enab",
+				"enabled_modules"
+			],
+			[
+				"registe",
+				"registrationTokens"
+			],
+			[
+				"regi",
+				"registrationTokens"
+			],
+			[
+				"seriali",
+				"serializeArray"
+			],
+			[
+				"serial",
+				"serializeObject"
+			],
+			[
+				"Illumin",
+				"Illuminate\\Http\\Request\t(laravel.log)"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"simplexml_load",
+				"simplexml_load_string"
+			],
+			[
+				"simplexml",
+				"simplexml_load_string"
+			],
+			[
+				"fadet",
+				"fadeTail"
+			],
+			[
+				"rand",
+				"getRandomInt"
+			],
+			[
+				"hea",
+				"heavenHeight"
+			],
+			[
+				"heaven",
+				"heavenWidth"
+			],
+			[
+				"getRan",
+				"getRandomInt"
+			],
+			[
+				"LAT",
+				"LATTICE_CA_RATIO"
+			],
+			[
+				"LATTI",
+				"LATTICE_CONSTANT"
+			],
+			[
+				"DIS",
+				"DISCOVERY_DATE"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"x-treen",
+				"x-tree-node-anchor"
+			],
+			[
+				"link",
+				"link_sound2"
+			],
+			[
+				"position",
+				"position-test"
+			],
+			[
+				"is",
+				"is\t.is()"
+			],
+			[
+				"molec",
+				"moleculeArray"
+			],
+			[
+				"moleC",
+				"moleculeArray"
+			],
+			[
+				"canva",
+				"CANVAS_HEIGHT"
+			],
+			[
+				"can",
+				"CANVAS_HEIGHT"
+			],
+			[
+				"text",
+				"textY"
+			],
+			[
+				"eval",
+				"evaluateModal"
+			],
+			[
+				"html",
+				"html_entity_decode"
+			],
+			[
+				"decode",
+				"htmlspecialchars_decode"
+			],
+			[
+				"ego",
+				"ego_column"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"remove",
+				"removeAttr\t.removeAttr()"
+			],
+			[
+				"jsonml",
+				"jsonml"
+			],
+			[
+				"request",
+				"request_stars"
+			],
+			[
+				"attr",
+				"attr\t.attr() - single"
+			],
+			[
+				"repla",
+				"replaceWith\treplaceWith"
+			],
+			[
+				"audo",
+				"audioElement"
+			],
+			[
+				"future",
+				"future_max"
+			],
+			[
+				"future_da",
+				"future_days_limit"
+			],
+			[
+				"freeze",
+				"freeze_days"
+			],
+			[
+				"update",
+				"updateData"
+			],
+			[
+				"futu",
+				"future_days_limit"
+			],
+			[
+				"cell",
+				"cellspacing\tAttr"
+			],
+			[
+				"productT",
+				"productTemplate"
+			],
+			[
+				"prod",
+				"products_for_js"
+			],
+			[
+				"pro",
+				"products_for_js"
+			],
+			[
+				"array",
+				"arrayToValidate"
+			],
+			[
+				"eq",
+				"equation"
+			],
+			[
+				"toggle",
+				"toggleClass\t.toggleClass()"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"slide",
+				"slideDown\t.slideDown()"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"arti",
+				"articleText"
+			],
+			[
+				"admin",
+				"admin_model"
+			],
+			[
+				"for",
+				"for\tfor …"
+			],
+			[
+				"games",
+				"gamesUnexploded"
+			],
+			[
+				"ar",
+				"articleText"
+			],
+			[
+				"res",
+				"resizeBars"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"session",
+				"session_data"
+			],
+			[
+				"sess",
+				"sess_array"
+			],
+			[
+				"pas",
+				"password2"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"b",
+				"bcount"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"border-c",
+				"border-collapse"
+			],
+			[
+				"mi",
+				"min-height"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"backgro",
+				"background-position"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"bakground",
+				"background-size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "arduin",
+		"selected_items":
+		[
+			[
+				"arduin",
+				"Set Syntax: Arduino"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"reform",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"ss ard",
+				"Set Syntax: Arduino"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"ss c",
+				"Set Syntax: C"
+			],
+			[
+				"ss ino",
+				"Set Syntax: Arduino"
+			],
+			[
+				"json",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"format",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"reinden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"arduino",
+				"Set Syntax: Arduino"
+			],
+			[
+				"redin",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"ss pp",
+				"Set Syntax: PHP"
+			],
+			[
+				"package inst",
+				"Package Control: Install Package"
+			],
+			[
+				"phpcs",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"skin",
+				"Select Skin"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packag in",
+				"Package Control: Install Package"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"blade",
+				"Set Syntax: Laravel Blade"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"ss less",
+				"Set Syntax: Less"
+			],
+			[
+				"them",
+				"Themr: List themes"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"file na",
+				"File Navigator: Open"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"themr",
+				"Themr: List themes"
+			],
+			[
+				"codeintel",
+				"SublimeCodeIntel: Enable Live Autocompletion for Current Language"
+			],
+			[
+				"terminal",
+				"Terminal: Open"
+			],
+			[
+				"snippet html",
+				"Snippet: html5"
+			],
+			[
+				"ter",
+				"Terminal: Open in project folder"
+			],
+			[
+				"term",
+				"Terminal: Open"
+			],
+			[
+				"Snippet: ",
+				"Snippet: .snippet"
+			],
+			[
+				"termina",
+				"Terminal: Open in project folder"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"quote",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				"changeq",
+				"ChangeQuotes"
+			],
+			[
+				"",
+				"BracketHighlighter: Match Brackets (ignore threshold)"
+			],
+			[
+				"console",
+				"Package Control: Install Package"
+			],
+			[
+				"alignment",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"utf",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"BLADE",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"ss larave",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"ss blade",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"pakca",
+				"Package Control: Install Package"
+			],
+			[
+				"align",
+				"Preferences: Alignment File Settings – Syntax Specific – User"
+			],
+			[
+				"ss jqu",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"ss java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ss lara",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"alignement",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"artisan migrate:make",
+				"Laravel Artisan: Migrate: Make"
+			],
+			[
+				"artisan migrate:make ",
+				"Laravel Artisan: Migrate: Make"
+			],
+			[
+				"artisan migrate: make ",
+				"Laravel Artisan: Migrate: Make"
+			],
+			[
+				"artisan migrate make",
+				"Laravel Artisan: Migrate: Make"
+			],
+			[
+				"art",
+				"Laravel Artisan Command"
+			],
+			[
+				"artis",
+				"Laravel Artisan Command"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"color sc",
+				"Package Control: Discover Packages"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"ss php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ss pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"packag",
+				"Package Control: Remove Package"
+			],
+			[
+				"set s php",
+				"Set Syntax: PHP"
+			],
+			[
+				"set s ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 475.0
+	},
+	"console":
+	{
+		"height": 143.0,
+		"history":
+		[
+			"ls",
+			"php artisan make:migration add_user_fields",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/JapSeyz/Documents/Arduino/libraries/MCP_CAN/mcp_can.h",
+		"/Users/JapSeyz/Documents/Arduino/obd_test/obd_test.ino",
+		"/Users/JapSeyz/Documents/Arduino/Spoiler/Spoiler/Spoiler.cpp",
+		"/Users/JapSeyz/Documents/Arduino/Spoiler/Spoiler/Spoiler.h",
+		"/Users/JapSeyz/Documents/Arduino/Spoiler/Parser/Parser.cpp",
+		"/Users/JapSeyz/Documents/Arduino/Spoiler/Parser/Parser.h",
+		"/Users/JapSeyz/Downloads/laravel.log",
+		"/Users/JapSeyz/Downloads/japseyz-8292a2b59615.json",
+		"/Users/JapSeyz/projects/dashboard.dev/app/Components/GoogleCalendar/FetchGoogleCalendarEvents.php",
+		"/Users/JapSeyz/projects/dashboard.dev/app/Components/RainForecast/FetchRainForecast.php",
+		"/Users/JapSeyz/projects/dashboard.dev/app/Components/LastFm/FetchCurrentTrack.php",
+		"/Users/JapSeyz/projects/dashboard.dev/app/helpers.php",
+		"/Users/JapSeyz/projects/artomonde.dev/app/Http/routes.php",
+		"/Users/JapSeyz/Downloads/fontello-4f978381/demo.html",
+		"/Users/JapSeyz/ownCloud/Programmering/Websites/assets/elements.json",
+		"/Users/JapSeyz/Dropbox/Elementært Jesper/elements.json",
+		"/Users/JapSeyz/ownCloud/Programmering/Websites/assets/elements_json.php",
+		"/Users/JapSeyz/projects/musikliv.dev/public/js/plugins/bdesk_photo/plugin.min.js",
+		"/Users/JapSeyz/projects/musikliv.dev/public/js/plugins/upload/plugin.min.js",
+		"/Users/JapSeyz/Downloads/dbtest.php",
+		"/Users/JapSeyz/Dropbox/Elementært Jesper/rs_sentences.json",
+		"/Users/JapSeyz/Downloads/insman.sql",
+		"/Users/JapSeyz/Downloads/TourController.php",
+		"/Users/JapSeyz/Downloads/arduino.ino",
+		"/Users/JapSeyz/Downloads/arduino/arduino.ino",
+		"/Users/JapSeyz/Documents/Arduino/libraries/alphabet.h/alphabet.h",
+		"/Users/JapSeyz/projects/arduino.dev/public/index.php",
+		"/Users/JapSeyz/Documents/Arduino/libraries/rgb/rgb.h",
+		"/Users/JapSeyz/Downloads/School/school presentation/Car.php",
+		"/Users/JapSeyz/Downloads/School/school presentation/App.php",
+		"/Users/JapSeyz/Downloads/school presentation/Car.php",
+		"/Users/JapSeyz/Downloads/tickets 2.sql",
+		"/Users/JapSeyz/Downloads/slick-1.6.0/slick/slick.css",
+		"/Users/JapSeyz/Downloads/slick-1.6.0/slick/slick.min.js",
+		"/Users/JapSeyz/Downloads/attendees.csv",
+		"/Users/JapSeyz/projects/school.dev/app/Policies/UserPolicy.php",
+		"/Users/JapSeyz/Downloads/Herning-Byfestival-master/server.php",
+		"/Users/JapSeyz/Downloads/Herning-Byfestival-master/socket.js",
+		"/Users/JapSeyz/Downloads/Herning-Byfestival-master/composer.json",
+		"/Users/JapSeyz/projects/school.dev/app/Helpers/LogHelper.php",
+		"/Users/JapSeyz/projects/school.dev/app/Http/Controllers/Api/GroupController.php",
+		"/Users/JapSeyz/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/JapSeyz/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/JapSeyz/Downloads/Eng A HTX Vejl. opgave 1, EfterÜr 2012/styles/print.css",
+		"/Users/JapSeyz/Downloads/Eng A HTX Vejl. opgave 1, EfterÜr 2012/index.html",
+		"/Users/JapSeyz/Downloads/Eng A HTX Vejl. opgave 1, EfterÜr 2012/xit!.html",
+		"/Users/JapSeyz/Downloads/loan.php",
+		"/Users/JapSeyz/Downloads/font-awesome-4.7.0/css/font-awesome.css",
+		"/Users/JapSeyz/Downloads/unslider-master/dist/css/unslider.css",
+		"/Users/JapSeyz/Downloads/unslider-master/dist/css/unslider-dots.css",
+		"/Users/JapSeyz/Downloads/unslider-master/dist/js/unslider-min.js",
+		"/Users/JapSeyz/ownCloud/inputs.json",
+		"/Users/JapSeyz/Downloads/4.6.0-guideguide-ps-trial/installer.jsx",
+		"/Users/JapSeyz/projects/wonderpointer.dev/public/css/app.css",
+		"/Users/JapSeyz/projects/wonder.dev/composer.json",
+		"/Users/JapSeyz/projects/wonder.dev/bootstrap/app.php",
+		"/Users/JapSeyz/projects/bookscanner.dev/public/dev/docs/source/assets/stylus/style.styl",
+		"/Users/JapSeyz/projects/wonderpointer.dev/composer.json",
+		"/Users/JapSeyz/projects/wonderpointer.dev/routes/web.php",
+		"/Users/JapSeyz/projects/bookscanner.dev/public/dev/docs/source/assets/js/script.js",
+		"/Users/JapSeyz/projects/wonder.dev/vendor/japseyz/apisecurity/src/Check.php",
+		"/Users/JapSeyz/projects/wonder.dev/vendor/japseyz/apisecurity/src/LumenServiceProvider.php",
+		"/Users/JapSeyz/projects/wonder.dev/routes/web.php",
+		"/Users/JapSeyz/ownCloud/Programmering/Websites/WonderPointerAPI_Develop/API/Tour_MySQL.php",
+		"/Users/JapSeyz/ownCloud/Programmering/Websites/WonderPointerAPI_Develop/API/User_MySQL.php",
+		"/Users/JapSeyz/Desktop/laravel.log",
+		"/Users/JapSeyz/ownCloud/Programmering/Websites/WonderPointerAPI_Develop/API/City_MySQL.php",
+		"/Users/JapSeyz/projects/letdicts-server/database/migrations/2016_09_30_094948_allow_longer_serviceids.php",
+		"/Users/JapSeyz/projects/letdicts-server/.env",
+		"/Users/JapSeyz/Downloads/crane controller/control.py",
+		"/Users/JapSeyz/projects/Dinero-Next/css/select2.min.css",
+		"/Users/JapSeyz/projects/Dinero-Next/src/inject/inject.js",
+		"/Users/JapSeyz/projects/ikastmusikliv.dev/resources/views/ManageEvent/Modals/EditTicket.blade.php",
+		"/Users/JapSeyz/projects/ikastmusikliv.dev/resources/views/ManageEvent/Partials/Sidebar.blade.php",
+		"/Users/JapSeyz/projects/ikastmusikliv.dev/database/migrations/2016_08_29_113618_sponsors.php",
+		"/Users/JapSeyz/projects/ikastmusikliv.dev/app/Http/routes.php",
+		"/Users/JapSeyz/projects/ikastmusikliv.dev/app/Http/Controllers/MyBaseController.php",
+		"/Users/JapSeyz/projects/ikastmusikliv.dev/app/Models/Event.php",
+		"/Users/JapSeyz/projects/ikastmusikliv.dev/app/Models/Sponsor.php",
+		"/Users/JapSeyz/projects/ikastmusikliv.dev/app/Sponsor.php",
+		"/Users/JapSeyz/projects/ikastmusikliv.dev/database/migrations/2014_03_26_180116_create_users_table.php",
+		"/Users/JapSeyz/projects/ikastmusikliv.dev/public/assets/javascript/app-public.js",
+		"/Users/JapSeyz/projects/ikastmusikliv.dev/resources/views/Public/ViewEvent/EventPageCheckout.blade.php",
+		"/Users/JapSeyz/projects/ikastmusikliv.dev/resources/views/Shared/Partials/GlobalFooterJS.blade.php",
+		"/Users/JapSeyz/projects/ikastmusikliv.dev/resources/views/Emails/Layouts/Master.blade.php",
+		"/Users/JapSeyz/projects/ikastmusikliv.dev/.env",
+		"/Users/JapSeyz/projects/ikastmusikliv.dev/.env.example",
+		"/Users/JapSeyz/projects/ikastmusikliv.dev/app/Http/Controllers/EventController.php",
+		"/Users/JapSeyz/projects/ims.dev/.env",
+		"/Users/JapSeyz/Downloads/statamic/sample.nginx.conf",
+		"/Users/JapSeyz/Desktop/nextEvolved/manifest.json",
+		"/Users/JapSeyz/Desktop/nextEvolved/src/browser_action/browser_action.html",
+		"/Users/JapSeyz/Desktop/nextEvolved/src/inject/inject.js",
+		"/Users/JapSeyz/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/JapSeyz/Downloads/archive/src/inject/inject.js",
+		"/Users/JapSeyz/Downloads/archive/manifest.json",
+		"/Users/JapSeyz/Downloads/archive/src/bg/background.js",
+		"/Users/JapSeyz/Desktop/curreny menu/Converter.php",
+		"/Users/JapSeyz/projects/tech/socket.js",
+		"/Users/JapSeyz/projects/attendize/modules/Volunteers/Resources/views/Attendee/index.blade.php",
+		"/Users/JapSeyz/Desktop/Volunteers/Resources/views/Organiser/index.blade.php",
+		"/Users/JapSeyz/Desktop/client_secret.json",
+		"/Users/JapSeyz/Desktop/Assets/css/app.css",
+		"/Users/JapSeyz/Desktop/gulpfile.js",
+		"/Users/JapSeyz/modules/Volunteers/Assets/js/vue/formHelper.min.js",
+		"/Users/JapSeyz/projects/attendize/app/Models/Event.php",
+		"/Users/JapSeyz/projects/attendize/modules/Volunteers/module.json",
+		"/Users/JapSeyz/projects/orders/composer.json",
+		"/Users/JapSeyz/Desktop/temp.php",
+		"/Users/JapSeyz/projects/orders/app/Console/Kernel.php",
+		"/Users/JapSeyz/projects/attendize/app/Models/Module.php",
+		"/Users/JapSeyz/projects/tech/resources/views/vendor/spark/layouts/app.blade.php",
+		"/Users/JapSeyz/projects/tech/resources/views/home.blade.php",
+		"/Users/JapSeyz/projects/tech/resources/views/dashboard/beacon.blade.php",
+		"/Users/JapSeyz/projects/tech/package.json",
+		"/Users/JapSeyz/Downloads/JapSeyz-list-ibeacons-723374bd3930/index.js",
+		"/Users/JapSeyz/Downloads/addons/sourcemod/scripting/include/ata_tools.inc",
+		"/Users/JapSeyz/ownCloud/Programmering/Websites/php scripts/Chemistry/utilities.php",
+		"/Users/JapSeyz/ownCloud/Programmering/Websites/php scripts/Chemistry/utils.php",
+		"/Users/JapSeyz/ownCloud/Programmering/Websites/php scripts/Chemistry/Equation2.php",
+		"/Users/JapSeyz/ownCloud/Programmering/Websites/php scripts/Chemistry/atom.php",
+		"/Users/JapSeyz/ownCloud/Programmering/Websites/php scripts/Chemistry/Main.php",
+		"/Users/JapSeyz/.homestead/Homestead.yaml",
+		"/Users/JapSeyz/projects/list-beacons/index.js",
+		"/Users/JapSeyz/Desktop/Alpha - Made by SimpleWeb.html",
+		"/Users/JapSeyz/projects/ikast-bio/config/app.php",
+		"/Users/JapSeyz/projects/ikast-bio/.env",
+		"/Users/JapSeyz/Downloads/env"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			"/Users/JapSeyz/projects/dashboard.dev/",
+			"/Users/JapSeyz/projects/elementaert/",
+			"/Users/JapSeyz/projects/ikastmusikliv.dev/",
+			"/Users/JapSeyz/projects/dictionary.dev/",
+			"/Users/JapSeyz/projects/ikastmusikliv.dev/",
+			"/Users/JapSeyz/projects/tech/,-node_modules",
+			"/Users/JapSeyz/projects/tech/,-*.node_modules",
+			"/Users/JapSeyz/projects/tech/",
+			"/Users/JapSeyz/projects/tech/resources/views/vendor/spark/dashboard",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"SO",
+			"readPin",
+			"_canPin",
+			"container",
+			"data",
+			"container",
+			"_container",
+			"_container[",
+			"getNextC",
+			"collection",
+			"commands",
+			"collector",
+			"OUTPUT",
+			"Morse_h",
+			"BarObject",
+			"public",
+			"response.",
+			"fetchCalendar",
+			"that",
+			"this",
+			"that",
+			"apiKey",
+			"this",
+			"index",
+			"recipe",
+			"modalRecipe",
+			"FetchGitHubFileContent",
+			"polyat",
+			"phaseThree",
+			"filter",
+			",0,",
+			",1,",
+			"1,",
+			",1,",
+			"1",
+			"\n  },\n  {",
+			"updateBoard",
+			"ChangeUserTurn",
+			"data",
+			"user",
+			"One",
+			"catch",
+			"magenta",
+			"alphabet",
+			"teacher",
+			"VM1408:2 ",
+			"VM621:2 ",
+			"console.log",
+			"value",
+			"led",
+			"value",
+			"latch",
+			"memoryPin",
+			"is",
+			"columns",
+			"val",
+			"green",
+			"leds",
+			"rows",
+			"({0.*})",
+			"prog_uint16_t",
+			"doors",
+			"doors ",
+			"){\n",
+			"');\n",
+			"<?",
+			"$format = ['name', 'email', 'password', 'type', 'type_id', 'role'];",
+			"nav ol",
+			".unslider-nav ol {list-style: none;text-align: center}",
+			".unslider-nav ol {\n  list-style: none;\n  text-align: center;\n}\n.unslider-nav ol li {\n  display: inline-block;\n  width: 6px;\n  height: 6px;\n  margin: 0 4px;\n  background: transparent;\n  border-radius: 5px;\n  overflow: hidden;\n  text-indent: -999em;\n  border: 2px solid #fff;\n  cursor: pointer;\n}\n.unslider-nav ol li.unslider-active {\n  background: #fff;\n  cursor: default;\n}\n",
+			"$app->",
+			".tocify-subheader",
+			".tocify-subheader {",
+			".tocify-subheader {\n  ",
+			".tocify-subheader {\n  .tocify-subheader {\n    .tocify-item>a {\n      // Styling here for a level 2 nesting. For example -> \n      padding-left: $nav-padding + $nav-indent * 2;\n      font-size: 12px;\n    }\n  }",
+			"makeToc",
+			"Pariticpants elements query",
+			"[{\"id\":4,\"name\":\"Test 1\",\"user_id\":null,\"mission_id\":16,\"difficulty_level\":\"0\",\"token\":\"\\/#4k4KgfF2cPLHlXXrAAEw\",\"game_status\":1},{\"id\":5,\"name\":\"Test 2\",\"user_id\":null,\"mission_id\":16,\"difficulty_level\":\"0\",\"token\":\"\\/#P7HypYK78K1KiK4nAAEv\",\"game_status\":1}] ",
+			"$vers",
+			"$user",
+			"$",
+			"h4",
+			"h3",
+			"h2",
+			"h1",
+			"h4",
+			"=> '",
+			", // ",
+			".pdfticket",
+			":after",
+			"attendize",
+			"alert",
+			"uploa",
+			"\"fields\":{\"archive\":\"urn:multiarchive:archive:JAP\",\"itemtype\":\"urn:multiarchive:itemtype:JAP:JAP_LVF\",\"Date\":\"2016-09-05\",\"Company\":\"Digital Ocean\"",
+			"\"files\":[{\"name\":\"8512538.pdf\",\"size\":0,\"type\":\"\",\"id\":\"userupload1\",\"filename\":\"8512538.pdf\",\"progress\":100,\"completed\":true",
+			"\"globalid\":null,",
+			"date",
+			"pdf\",\"progress\":100,\"completed\":true,\"uuid\":\"45e22eed-1e65-4733-91e3-a9dcda105ca7\"}],\"fields\":{\"archive\":\"",
+			"{\"globalid\":null,\"files\":[{\"name\":\"8512538.pdf\",\"size\":0,\"type\":\"\",\"id\":\"userupload1\",\"filename\":\"8512538.pdf\",\"progress\":100,\"completed\":true,\"uuid\":\"45e22eed-1e65-4733-91e3-a9dcda105ca7\"}],\"fields\":{\"archive\":\"urn:multiarchive:archive:JAP\",\"itemtype\":\"urn:multiarchive:itemtype:JAP:JAP_LVF\",\"Date\":\"05/09/2016\",\"Company\":\"Digital Ocean\",\"LevFakNbr\":\" 8512538\",\"Desc\":\"Serverhosting\",\"Amount\":84,85}}",
+			"target",
+			"fetchList",
+			"japseyz-archive-select",
+			"success",
+			"succe",
+			"info",
+			"app.add",
+			"form",
+			"SQLite",
+			"showEvent",
+			"/checkout",
+			"function showMessage",
+			"showMessage",
+			"dubl",
+			"console.l",
+			"JAP",
+			"script",
+			"attr",
+			";\n",
+			"clients",
+			"archive-type",
+			"archiveTyp",
+			"getArchive",
+			"on('",
+			"on(",
+			"remove",
+			"archive-select",
+			"console",
+			"prepend"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			",",
+			"",
+			"{4,288,18464,288,4}",
+			"uint16_t",
+			"",
+			";\n        \n        return",
+			"}\n        \n        return",
+			"}\n\n    /**",
+			"}\\n\n    /**",
+			"}\n    /**",
+			"50",
+			"10",
+			"</td>",
+			"<td>",
+			"\"",
+			">",
+			"reviews",
+			"booking",
+			"reviews-",
+			"fa fa-",
+			"#mission",
+			"#reivews",
+			"#booking",
+			"<p>",
+			"",
+			"<span class='3em'>&sdot;</span>",
+			"&sdot;",
+			"allowOverride All",
+			"index"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 104.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.stino_panel":
+	{
+		"height": 116.0
+	},
+	"pinned_build_system": "",
+	"project": "Spoiler.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Parser/Parser.cpp"
+			],
+			[
+				"apicon",
+				"app/Http/Controllers/ApiController.php"
+			],
+			[
+				"apicontr",
+				"app/Http/Controllers/ApiController.php"
+			],
+			[
+				"api",
+				"routes/api.php"
+			],
+			[
+				"googlecalendar.sc",
+				"resources/assets/sass/components/_google-calendar.scss"
+			],
+			[
+				"modal.sc",
+				"resources/assets/sass/components/_modal.scss"
+			],
+			[
+				"helpers.js",
+				"resources/assets/js/helpers.js"
+			],
+			[
+				"googlecalendar.php",
+				"vendor/spatie/laravel-google-calendar/src/GoogleCalendar.php"
+			],
+			[
+				"fetch",
+				"app/Components/GoogleCalendar/FetchGoogleCalendarEvents.php"
+			],
+			[
+				"relatived",
+				"resources/assets/js/components/RelativeDate.vue"
+			],
+			[
+				"dashb",
+				"resources/views/dashboard.blade.php"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"recip",
+				"resources/assets/js/components/Recipies.vue"
+			],
+			[
+				"fetchg",
+				"app/Components/GoogleCalendar/FetchGoogleCalendarEvents.php"
+			],
+			[
+				".vue",
+				"resources/assets/js/components/Recipies.vue"
+			],
+			[
+				"master.bl",
+				"resources/views/layouts/master.blade.php"
+			],
+			[
+				"reci",
+				"resources/assets/sass/components/_recipies.scss"
+			],
+			[
+				"googlecelndar/event",
+				"vendor/spatie/laravel-google-calendar/src/Event.php"
+			],
+			[
+				"googlecalendar/event.php",
+				"vendor/spatie/laravel-google-calendar/src/Event.php"
+			],
+			[
+				"fetchcale",
+				"app/Components/GoogleCalendar/FetchGoogleCalendarEvents.php"
+			],
+			[
+				"googlec",
+				"resources/assets/js/components/GoogleCalendar.vue"
+			],
+			[
+				"services.php",
+				"config/services.php"
+			],
+			[
+				"web",
+				"routes/web.php"
+			],
+			[
+				"master.blade",
+				"resources/views/layouts/master.blade.php"
+			],
+			[
+				"phasethreec",
+				"app/Http/Controllers/PhaseThreeController.php"
+			],
+			[
+				"ordercontroller",
+				"app/Http/Controllers/EventDashboardController.php"
+			],
+			[
+				"ordercomplete",
+				"app/Events/OrderCompletedEvent.php"
+			],
+			[
+				"page.vu",
+				"resources/assets/js/vue/components/Page.vue"
+			],
+			[
+				"public/page",
+				"resources/views/public/page.blade.php"
+			],
+			[
+				"page",
+				"app/Http/Controllers/Backend/PageController.php"
+			],
+			[
+				"pagecontr",
+				"app/Http/Controllers/Backend/PageController.php"
+			],
+			[
+				"page.vue",
+				"resources/assets/js/vue/components/Page.vue"
+			],
+			[
+				"section.vu",
+				"resources/assets/js/vue/components/Sections.vue"
+			],
+			[
+				"phaseone",
+				"app/Http/Controllers/PhaseOneController.php"
+			],
+			[
+				"canm",
+				"public/Classes/Admin.php"
+			],
+			[
+				"api.p",
+				"routes/api.php"
+			],
+			[
+				"log.p",
+				"app/Log.php"
+			],
+			[
+				"log.",
+				"app/Log.php"
+			],
+			[
+				"group",
+				"app/Group.php"
+			],
+			[
+				"groupcontr",
+				"app/Http/Controllers/Api/GroupController.php"
+			],
+			[
+				"user",
+				"app/User.php"
+			],
+			[
+				"user.",
+				"app/User.php"
+			],
+			[
+				"allowlonger",
+				"database/migrations/2016_09_30_094948_allow_longer_serviceids.php"
+			],
+			[
+				"web.p",
+				"routes/web.php"
+			],
+			[
+				"welcome",
+				"resources/views/welcome.blade.php"
+			],
+			[
+				"mail.b",
+				"resources/views/mail.blade.php"
+			],
+			[
+				"services.",
+				"config/services.php"
+			],
+			[
+				"web.ph",
+				"routes/web.php"
+			],
+			[
+				"rout",
+				"vendor/symfony/routing/Route.php"
+			],
+			[
+				"sponsors.",
+				"database/migrations/2016_08_29_113618_sponsors.php"
+			],
+			[
+				"sponsor.",
+				"app/Models/Sponsor.php"
+			],
+			[
+				"organiser",
+				"app/Models/Organiser.php"
+			],
+			[
+				"event.php",
+				"app/Models/Event.php"
+			],
+			[
+				"ticket.blade.",
+				"resources/views/Public/ViewEvent/Partials/PDFTicket.blade.php"
+			],
+			[
+				"event.",
+				"app/Models/Event.php"
+			],
+			[
+				"eventviewc",
+				"app/Http/Controllers/EventViewController.php"
+			],
+			[
+				"route",
+				"app/Http/routes.php"
+			],
+			[
+				"gulpf",
+				"gulpfile.js"
+			],
+			[
+				"filesyste",
+				"config/filesystems.php"
+			],
+			[
+				"homec",
+				"app/Http/Controllers/HomeController.php"
+			],
+			[
+				"output",
+				"app/Http/Controllers/OutputController.php"
+			],
+			[
+				"dictionar",
+				"app/Dictionary.php"
+			],
+			[
+				"api.",
+				"routes/api.php"
+			],
+			[
+				"kernel",
+				"app/Http/Kernel.php"
+			],
+			[
+				"ajx",
+				"resources/assets/js/directives/ajax.js"
+			],
+			[
+				"info",
+				"resources/views/components/modals/app_dictionary/info.blade.php"
+			],
+			[
+				"label",
+				"resources/lang/en/label.php"
+			],
+			[
+				"web.php",
+				"routes/web.php"
+			],
+			[
+				"check.",
+				"vendor/japseyz/apisecurity/src/Check.php"
+			],
+			[
+				"laravelservicep",
+				"vendor/japseyz/apisecurity/src/LaravelServiceProvider.php"
+			],
+			[
+				"ajax.",
+				"resources/assets/js/directives/ajax.js"
+			],
+			[
+				"ajax",
+				"resources/assets/js/directives/ajax.js"
+			],
+			[
+				"info.bl",
+				"resources/views/components/modals/app_dictionary/info.blade.php"
+			],
+			[
+				"app.js",
+				"resources/assets/js/app.js"
+			],
+			[
+				"create.blade",
+				"resources/views/components/modals/app_dictionary/create.blade.php"
+			],
+			[
+				"appdi",
+				"resources/assets/js/components/AppDictionary.vue"
+			],
+			[
+				"label.p",
+				"resources/lang/en/label.php"
+			],
+			[
+				"dictionarycontr",
+				"app/Http/Controllers/DictionaryController.php"
+			],
+			[
+				"/create.bl",
+				"resources/views/components/modals/app_dictionary/create.blade.php"
+			],
+			[
+				"appdict",
+				"resources/assets/js/components/AppDictionary.vue"
+			],
+			[
+				"appdc",
+				"resources/views/components/app_dictionary.blade.php"
+			],
+			[
+				"label.",
+				"resources/lang/en/label.php"
+			],
+			[
+				"table.scs",
+				"resources/assets/sass/_tables.scss"
+			],
+			[
+				"appdictionar",
+				"resources/assets/js/components/AppDictionary.vue"
+			],
+			[
+				"dictionary.php",
+				"app/Dictionary.php"
+			],
+			[
+				"app_dictionar",
+				"resources/views/components/app_dictionary.blade.php"
+			],
+			[
+				"create_config",
+				"database/migrations/2016_08_29_190939_create_config_table.php"
+			],
+			[
+				"laravel.l",
+				"storage/logs/laravel.log"
+			],
+			[
+				"add_time",
+				"database/migrations/2016_08_31_065233_add_timestamps_to_pivot.php"
+			],
+			[
+				"dictionary/cre",
+				"resources/views/components/modals/app_dictionary/create.blade.php"
+			],
+			[
+				"label.php",
+				"resources/lang/en/label.php"
+			],
+			[
+				"count",
+				"resources/views/countdown.blade.php"
+			],
+			[
+				"countdown",
+				"resources/views/countdown.blade.php"
+			],
+			[
+				"routes.php",
+				"app/Providers/RouteServiceProvider.php"
+			],
+			[
+				"routes",
+				"app/Providers/RouteServiceProvider.php"
+			],
+			[
+				"sidebar",
+				"resources/views/ManageEvent/Partials/Sidebar.blade.php"
+			],
+			[
+				"sidebar.blade",
+				"resources/views/ManageEvent/Partials/Sidebar.blade.php"
+			],
+			[
+				"event.p",
+				"app/Models/Event.php"
+			],
+			[
+				"sponsors",
+				"database/migrations/2016_08_29_113618_sponsors.php"
+			],
+			[
+				"eventshare",
+				"resources/views/Public/ViewEvent/Partials/EventShareSection.blade.php"
+			],
+			[
+				"ticket.blade.php",
+				"resources/views/Public/ViewEvent/Partials/PDFTicket.blade.php"
+			],
+			[
+				"ticket",
+				"resources/views/ManageEvent/Modals/EditTicket.blade.php"
+			],
+			[
+				"globalfooterj",
+				"resources/views/Shared/Partials/GlobalFooterJS.blade.php"
+			],
+			[
+				"layout/app",
+				"resources/views/Emails/Layouts/Master.blade.php"
+			],
+			[
+				"eventcheckoutcontr",
+				"app/Http/Controllers/EventCheckoutController.php"
+			],
+			[
+				"eventcontroller",
+				"app/Http/Controllers/EventController.php"
+			],
+			[
+				"modu",
+				"app/Models/Module.php"
+			],
+			[
+				"compo",
+				"composer.json"
+			],
+			[
+				"config/app",
+				"config/app.php"
+			],
+			[
+				"mod",
+				"app/Models/Module.php"
+			],
+			[
+				"larav",
+				"tech/storage/logs/laravel.log"
+			],
+			[
+				"tea",
+				"tech/app/Team.php"
+			],
+			[
+				"apic",
+				"tech/app/Http/Controllers/ApiController.php"
+			],
+			[
+				"edit",
+				"tech/resources/assets/js/spark-components/dashboard/edit-beacons.js"
+			],
+			[
+				"api.ph",
+				"tech/app/Http/api.php"
+			],
+			[
+				"team",
+				"tech/app/Team.php"
+			],
+			[
+				"laravel.lo",
+				"tech/storage/logs/laravel.log"
+			],
+			[
+				"edit-b",
+				"~/projects/tech/resources/views/dashboard/edit-beacons.blade.php"
+			],
+			[
+				"home",
+				"tech/resources/views/home.blade.php"
+			],
+			[
+				"home.js",
+				"tech/resources/assets/js/components/home.js"
+			],
+			[
+				"styles.l",
+				"tech/resources/assets/less/styles.less"
+			],
+			[
+				".less",
+				"tech/resources/assets/less/app.less"
+			],
+			[
+				"laravel.log",
+				"tech/storage/logs/laravel.log"
+			],
+			[
+				"app.blade.php",
+				"spark/resources/views/layouts/app.blade.php"
+			],
+			[
+				"config/serv",
+				"config/services.php"
+			],
+			[
+				"mail",
+				"config/mail.php"
+			],
+			[
+				"home.b",
+				"resources/views/home.blade.php"
+			],
+			[
+				"edit-beacon",
+				"~/projects/tech/resources/views/dashboard/edit-beacons.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 378.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 326.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}

@@ -18,21 +18,16 @@ void setup() {
   spoiler.POT_MIN = 100;
   spoiler.POT_MAX = 600;
   
-  //parser.init();
+  parser.init();
   spoiler.init();
 
-  Serial.begin(9600);
 }
 
 void loop() {
-    //parser.listen();
+    parser.listen();
 
-    //int angle = map(parser.speed,0, 75, 100, 600);
-    //Serial.println(angle);
-
-    int angle = random(100, 600);
+    int angle = map(parser.speed,0, 75, 100, 600);
     Serial.println(angle);
-
+    
     spoiler.setPosition(angle);
-    delay(300);
 }

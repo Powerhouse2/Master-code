@@ -15,19 +15,21 @@ Parser parser;
 Spoiler spoiler(forwardsPin, backwardsPin, resistorPin);
 
 void setup() {
+  // Define safe bounds for the spoiler
+  // these represent resistor values
   spoiler.POT_MIN = 100;
   spoiler.POT_MAX = 600;
-  
+
+  // Init libraries
   parser.init();
   spoiler.init();
-
 }
 
 void loop() {
-    parser.listen();
+  // Update values
+  parser.listen();
 
-    int angle = map(parser.speed,0, 75, 100, 600);
-    Serial.println(angle);
-    
-    spoiler.setPosition(angle);
+  // Set the Spoiler angle
+  int angle = map(parser.speed,0, 75, 100, 600);
+  spoiler.setPosition(angle);
 }
